@@ -1,1 +1,0 @@
-# secoda-coding-challenge
