@@ -1,4 +1,4 @@
-# Secoda Take Home Challenge
+# Text editor using slate.js
 
 ## Introduction
 
@@ -22,7 +22,7 @@ The project will consist of a documentation editor using [Slate.js](https://gith
 To run a local server use the command
 
 ```
-cd /path/to/secoda-coding-challenge
+cd /path/to/project
 
 # Install packages
 npm i
@@ -39,7 +39,3 @@ npm run start
 - Add tests
 - Add more functionality such as list, bullet list, etc
 - Persisting the editor content
-
-## Challenge
-
-https://secoda.notion.site/Coding-Challenge-b9f22e867c68438c9895b21cfd19a7ba
